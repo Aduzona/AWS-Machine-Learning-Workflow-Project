@@ -206,7 +206,7 @@ df_test["filenames"] = df_test["filenames"].apply(
 )
 
 ```
-![3. Train data head](Train_data_head.png)
+![3. Train data head](Screenshots/Train_data_head.png)
 Shows head of dataframe and saves train and test data as csv
 
 Make directory
