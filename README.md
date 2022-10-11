@@ -877,3 +877,8 @@ LAMBDA
 
 Sagemaker:
 ![Sagemaker IAM role](Screenshots/SagemakerIAM.png)
+
+## REFERENCES
+
+* [udacity](udacity.com)
+* [Lambda Sagemaker](https://www.youtube.com/watch?v=-iU36P8hizs&t=188s&ab_channel=PragmaticAILabs)
